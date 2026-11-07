@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fresh-Stenografist" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Neiro-stenografist" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Neuro-stenografist" vcs="Git" />
   </component>
